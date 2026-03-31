@@ -1,3 +1,3 @@
 ## hello👋  
-- I write mod and translate
-- Can translate SChinese or TChinese
+- I am Improved website dev
+- [TOHO](https://github.com/limeau/townofhost-optimized) translator(SChinese+TChinese
